@@ -1,1 +1,1 @@
-# anarchcoin
+# anarchcoin v1
